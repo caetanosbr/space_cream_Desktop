@@ -2,7 +2,7 @@
 <h1 align="center"> Space Cream Desktop </h1>
 
 <p align="center">
-  <img alt="imagem" src=./assets/image_space_crem.png>
+  <img alt="imagem" src=./assets/image_Space_crem.png>
 </p>
 
 ---
@@ -36,7 +36,7 @@ Esse projeto está sob a licença MIT.
 ---
 
 Deploy:
-[Clicque aqui para acessar o Projeto!](https://caetanosbr.github.io/display-grid-aula/)
+[Clicque aqui para acessar o Projeto!](https://caetanosbr.github.io/space_cream_Desktop/)
 =======
 
 
