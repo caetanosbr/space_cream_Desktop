@@ -27,7 +27,7 @@ Utilizaremos:
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [Nesse link](https://www.figma.com/file/drBBktNRdtCIUiN4cZk4yo/Stage-03---Mobile-First?node-id=0%3A1&t=xqVGvVyJLmzIprj0-0) É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [Nesse link](https://www.figma.com/file/hMs1LsgVZGPKZmMfPp730r/Stage-03---Grid-com-anima%C3%A7%C3%B5es-(Copy)?node-id=0%3A1&t=CZTUkK40KiFQip48-0) É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## : Licença
 
