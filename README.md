@@ -1,6 +1,7 @@
 
 <h1 align="center"> Space Cream Desktop </h1>
 
+---
 <p align="center">
   <img alt="imagem" src=./assets/image_Space_crem.png>
 </p>
