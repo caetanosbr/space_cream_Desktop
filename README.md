@@ -37,7 +37,7 @@ Esse projeto está sob a licença MIT.
 ---
 
 Deploy: 
-[Clique aqui para acessar o Projeto!](https://caetanosbr.github.io/space_cream_Desktop/_target="_blanck")
+[Clique aqui para acessar o Projeto!](https://caetanosbr.github.io/space_cream_Desktop/)
 =======
 
 
