@@ -14,12 +14,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML
 - CSS
 - Utilizando Display GRID.
+- Animações
 
 ## 💻 Projeto
 
 Utilizaremos:
 
-- Mobile First
+- Versão mobile e Desktop
 - Responsividade
 - Unidade de medida flexível
 - Variáveis
@@ -35,8 +36,8 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Deploy:
-[Clicque aqui para acessar o Projeto!]https://caetanosbr.github.io/space_cream_Desktop/)
+Deploy: 
+[Clique aqui para acessar o Projeto!](https://caetanosbr.github.io/space_cream_Desktop/)
 =======
 
 
